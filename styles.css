@@ -21,7 +21,7 @@ body {
 }
 
 .navbar {
-    background-color: #73b4ffb1;
+    background-color: #b1d5ffa8;
     margin-top: 1%;
     margin-left: 5%;
     margin-right: 5%;
@@ -47,7 +47,7 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #389fffb1;
+    background-color: #cee7ffb1;
     transform: scale(1.1);
 }
 
