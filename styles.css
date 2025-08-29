@@ -89,6 +89,8 @@ body {
     padding-bottom: 8px;
     margin-left: 10vw;
     margin-right: 10vw;
+    height: 20vh;
+    width: 15vh;
 }
 
 .link-box a {
@@ -99,4 +101,5 @@ body {
     padding-bottom: 4px;
     border-radius: 12px;
     z-index: 90;
+    text-decoration: none;
 }
