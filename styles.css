@@ -102,4 +102,10 @@ body {
     border-radius: 12px;
     z-index: 90;
     text-decoration: none;
+    margin-top: 2%;
+}
+
+.link-box img {
+    height: 15vh;
+    width: 10 vh;
 }
