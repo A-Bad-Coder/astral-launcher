@@ -72,3 +72,14 @@ body {
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;
 }
+
+.link-box {
+    background-color: #89caffe4;
+    color: white;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: 12px;
+    border-color: aliceblue;
+    border-width: 2px;
+    font-size: 25px;
+}
