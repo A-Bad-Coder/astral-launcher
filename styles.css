@@ -67,10 +67,20 @@ body {
 }
 
 .footer {
-    margin-top: 90%;
-    color: #FFFFFF;
+    margin-top: 90vh;
+    color: #6eadff;
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;
+    background-color: #FFFFFF;
+    height: 10vh;
+    width: 100vh;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #6eadff;
+    text-align: center;
+    vertical-align: top;
 }
 
 .link-box {
