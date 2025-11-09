@@ -118,3 +118,24 @@ body {
 .link-box img {
     height: 15vh;
 }
+
+input.box { 
+    background-repeat: no-repeat;  
+    background-position: 0px 0px;
+    height: 150px;
+    width: 150px;
+}
+
+input.box p {
+    text-align: center;
+    vertical-align: middle;
+    font-family:'Courier New', Courier, monospace;
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+input.box:hover {
+    filter: blur(30px);
+    transform: scale(1.15);
+}
