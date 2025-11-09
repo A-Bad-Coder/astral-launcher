@@ -136,7 +136,7 @@ input.box p {
     position: relative;
 }
 
-input.box a:hover {
+input.box p:hover {
     filter: blur(5px);
     transform: scale(1.15);
 }
