@@ -133,7 +133,7 @@ input.box p {
     color: #ffffff;
     font-size: 18px;
     text-decoration: none;
-    position: 0px, 0px;
+    position: absolute;
 }
 
 input.box:hover {
