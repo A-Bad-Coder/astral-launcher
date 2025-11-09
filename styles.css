@@ -168,12 +168,12 @@ input.box:hover {
     margin-left: 5px;
 }
 
-nav ul li.dropdown {
+ul li.dropdown {
   position: relative;
   display: inline-block;
 }
 
-nav ul li .dropdown-content {
+ul li .dropdown-content {
   display: none;
   position: absolute;
   background-color: rgba(0, 0, 0, 0.9);
@@ -183,22 +183,22 @@ nav ul li .dropdown-content {
   box-shadow: 0 8px 16px rgba(0,0,0,0.3);
 }
 
-nav ul li .dropdown-content li {
+ul li .dropdown-content li {
   display: block;
   margin: 0;
 }
 
-nav ul li .dropdown-content li a {
+ul li .dropdown-content li a {
   display: block;
   padding: 10px 15px;
   color: white;
   text-decoration: none;
 }
 
-nav ul li .dropdown-content li a:hover {
+ul li .dropdown-content li a:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-nav ul li .dropdown-content.show {
+ul li .dropdown-content.show {
   display: block;
 }
