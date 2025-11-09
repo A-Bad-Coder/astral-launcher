@@ -119,23 +119,24 @@ body {
     height: 15vh;
 }
 
-input.box { 
+span.box { 
     background-repeat: no-repeat;  
-    background-position: 0px 0px;
+    background-position: 0px, 0px;
     height: 150px;
     width: 150px;
 }
 
-input.box p {
+span.box p {
     text-align: center;
     vertical-align: middle;
     font-family:'Courier New', Courier, monospace;
     color: #ffffff;
     font-size: 18px;
     text-decoration: none;
+    position: 0px, 0px;
 }
 
-input.box:hover {
+span.box:hover {
     filter: blur(5px);
     transform: scale(1.15);
 }
